@@ -39,6 +39,10 @@ Demo
 ----
 [![Youtube Video](http://i.imgur.com/1CRVxu1.jpg)](https://www.youtube.com/watch?v=NaLIHsaBxDM)
 
+Considerations
+----
+	Made to be simple, so this is not free of bugs. Feel free to report if you find one (some) (:
+
 ### License
 ```
 The MIT License (MIT)
