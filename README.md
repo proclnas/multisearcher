@@ -41,7 +41,7 @@ Demo
 
 Considerations
 ----
-	Made to be simple, so this is not free of bugs. Feel free to report if you find one (some) (:
+	Made to be simple, so this is not free of bugs. Feel free to fork and contribute! (:
 
 ### License
 ```
